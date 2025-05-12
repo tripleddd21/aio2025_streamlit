@@ -4,3 +4,14 @@ pandas
 matplotlib
 seaborn
 pygwalker
+ydata-profiling
+openai
+librosa
+tempfile
+urllib.request
+speech_recognition
+gtts
+IPython.display
+os
+google.generativeai
+google-generativeai
